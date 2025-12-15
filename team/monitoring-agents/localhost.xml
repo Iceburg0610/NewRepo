@@ -29,11 +29,11 @@
     <lg-networkiface description="Microsoft Teredo Tunneling Adapter"
         enabled="false" isLoopBack="false" name="tunnel_32512">
         <!--****** LG ADDRESSES ******-->
-        <lg-address enabled="false" hostname="2001:0:14c9:d700:1460:cf34:8554:e977">
-            <ip value="2001:0:14c9:d700:1460:cf34:8554:e977"/>
+        <lg-address enabled="false" hostname="2001:0:14c9:d700:248d:8de6:8554:edf4">
+            <ip value="2001:0:14c9:d700:248d:8de6:8554:edf4"/>
         </lg-address>
-        <lg-address enabled="false" hostname="fe80:0:0:0:1460:cf34:8554:e977%tunnel_32512">
-            <ip value="fe80:0:0:0:1460:cf34:8554:e977%tunnel_32512"/>
+        <lg-address enabled="false" hostname="fe80:0:0:0:248d:8de6:8554:edf4%tunnel_32512">
+            <ip value="fe80:0:0:0:248d:8de6:8554:edf4%tunnel_32512"/>
         </lg-address>
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
